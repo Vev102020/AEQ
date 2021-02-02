@@ -80,6 +80,8 @@ section {
   -moz-transition: 0.5s;
   -ms-transition: 0.5s;
   -o-transition: 0.5s;
+
+  min-height: 100px;
 }
 .box2:not(:last-child) {
   margin-right: 30px;
